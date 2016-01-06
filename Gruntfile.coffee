@@ -176,6 +176,7 @@ module.exports = (grunt) ->
             src: '<%= cwd %>/src'
             common: 'src/common'
             lib: 'src/lib'
+            model: 'src/model'
             page: 'src/page'
             ui: 'src/ui'
           # 后缀补全
